@@ -33,7 +33,7 @@ O **Whisper Hunt** é um jogo online de dedução social, projetado com acessibi
 ## Tecnologias Utilizadas
 
 - **Unity:** Software para criação de jogos.
-- **C#:** Linguagem de programação utilizada dentro do Unity.
+- **C#:** Linguagem de programação utilizada dentro da Unity.
 - **AWS:** Hospedagem do servidor.
 - **PostgreSQL:** Banco de dados para armazenamento de informações do jogo.
 - **C++:** Linguagem utilizada para desenvolvimento do servidor.
