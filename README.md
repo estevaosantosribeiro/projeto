@@ -11,7 +11,7 @@ O **Whisper Hunt** é um jogo online de dedução social, projetado com acessibi
   - Combinação automática para ajustar as partidas.
 
 - **Tarefas e Desafios**
-  - Completar papéis e tarefas específicas.
+  - Completar tarefas específicas.
   - Desafios que exigem estratégia e colaboração.
 
 - **Sistema de Comunicação**
@@ -25,7 +25,6 @@ O **Whisper Hunt** é um jogo online de dedução social, projetado com acessibi
 - **Acessibilidade Avançada**
   - **Áudio-descrição:** Descrição de elementos visuais.
   - **Feedback Tátil:** Vibrações para eventos importantes.
-  - **Comandos de Voz:** Navegação por comandos de voz.
 
 - **Gestão de Problemas**
   - Ferramentas para relatar problemas.
