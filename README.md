@@ -2,38 +2,50 @@
 
 ## Introdução
 
-O **Whisper Hunt** é um jogo online de dedução social, desenvolvido com foco em acessibilidade para jogadores cegos. Inspirado em jogos como "Among Us", o projeto utiliza tecnologia de ponta para garantir uma experiência inclusiva e envolvente para todos os jogadores.
+O **Whisper Hunt** é um jogo online de dedução social, projetado com acessibilidade em mente, especialmente para jogadores cegos. O objetivo do sistema é proporcionar uma experiência inclusiva e imersiva, permitindo que todos os jogadores, independentemente de suas capacidades visuais, possam participar e se divertir plenamente.
 
 ## Funcionalidades
 
 - **Formação de Partidas**
-  - Criação de partidas e combinação automática de jogadores.
-  - Formação de equipes e início de partidas com base no número de jogadores disponíveis.
+  - Juntar jogadores para formar equipes.
+  - Combinação automática para ajustar as partidas.
 
-- **Compras no Jogo**
-  - Interface de loja acessível para realizar compras de itens e melhorias.
-  - Processos de pagamento e gerenciamento de inventário integrados.
+- **Tarefas e Desafios**
+  - Completar papéis e tarefas específicas.
+  - Desafios que exigem estratégia e colaboração.
 
-- **Acessibilidade**
-  - **Áudio-descrição:** Narração de elementos visuais para jogadores cegos.
-  - **Feedback Tátil:** Vibrações em dispositivos para eventos importantes no jogo.
-  - **Comandos de Voz:** Navegação e controle do jogo via comandos de voz.
+- **Sistema de Comunicação**
+  - Chat de voz e mensagens para interação.
+  - Ferramentas para discutir e debater ações.
+
+- **Sistema de Compras no Jogo**
+  - Loja para adquirir itens e personalizações.
+  - Gerenciamento de inventário e saldo.
+
+- **Acessibilidade Avançada**
+  - **Áudio-descrição:** Descrição de elementos visuais.
+  - **Feedback Tátil:** Vibrações para eventos importantes.
+  - **Comandos de Voz:** Navegação por comandos de voz.
 
 - **Gestão de Problemas**
-  - Sistema para comunicar e relatar problemas técnicos ou dificuldades de acessibilidade.
-  - Suporte técnico para revisar e resolver problemas reportados.
+  - Ferramentas para relatar problemas.
+  - Suporte para resolver e melhorar a experiência.
 
 ## Tecnologias Utilizadas
 
-- **Unity:** Software para desenvolvimento 3D e criação de jogos.
-- **C#:** Linguagem de programação utilizada no desenvolvimento dentro do Unity.
+- **Unity:** Software para criação de jogos.
+- **C#:** Linguagem de programação utilizada dentro do Unity.
 - **AWS:** Hospedagem do servidor.
 - **PostgreSQL:** Banco de dados para armazenamento de informações do jogo.
 - **C++:** Linguagem utilizada para desenvolvimento do servidor.
 
-## Como Contribuir
+## Como Jogar
 
-Se você deseja contribuir para o projeto, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request* com melhorias ou correções.
+1. **Entre no Jogo:** Faça login e acesse o menu principal.
+2. **Forme uma Equipe:** Junte-se a outros jogadores e prepare-se para a partida.
+3. **Complete Tarefas:** Assuma um papel e complete as tarefas ou desafios.
+4. **Comunique-se:** Use o chat de voz ou mensagens para interagir com os outros jogadores.
+5. **Relate Problemas:** Se encontrar algum problema, use o sistema de suporte para reportar.
 
 ## Stakeholders
 
