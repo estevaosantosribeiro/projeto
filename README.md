@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O **Whisper Hunt** é um jogo online de dedução social, projetado com acessibilidade em mente, especialmente para jogadores cegos. O objetivo do sistema é proporcionar uma experiência inclusiva e imersiva, permitindo que todos os jogadores, independentemente de suas capacidades visuais, possam participar e se divertir plenamente.
+O **Whisper Hunt** é um jogo online de dedução social, projetado com acessibilidade em mente, especialmente para jogadores cegos. O objetivo do sistema é proporcionar uma experiência inclusiva e imersiva, permitindo que todos os jogadores possam participar e se divertir plenamente.
 
 ## Funcionalidades
 
