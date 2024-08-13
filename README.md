@@ -25,20 +25,23 @@ O **Whisper Hunt** é um jogo online de dedução social, desenvolvido com foco 
 
 ## Tecnologias Utilizadas
 
-- **Unity:** Motor de jogo para desenvolvimento 3D e criação de experiências de jogo interativas.
+- **Unity:** Software para desenvolvimento 3D e criação de jogos.
 - **C#:** Linguagem de programação utilizada no desenvolvimento dentro do Unity.
-- **AWS:** Hospedagem do servidor para suportar um grande número de jogadores simultâneos.
-- **PostgreSQL:** Banco de dados para armazenamento de informações dos jogadores e progresso do jogo.
+- **AWS:** Hospedagem do servidor.
+- **PostgreSQL:** Banco de dados para armazenamento de informações do jogo.
 - **C++:** Linguagem utilizada para desenvolvimento do servidor.
 
 ## Como Contribuir
 
 Se você deseja contribuir para o projeto, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request* com melhorias ou correções.
 
-## Licença
+## Stakeholders
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+- Estevão Santos Ribeiro
+- Gustavo Gonsalves Branco
+- Victor Veiga Maza Costa
+- Maria Eduarda Madruga Gonçalves
 
 ## Contato
 
-Para mais informações ou perguntas, entre em contato com [seu-email@example.com](mailto:seu-email@example.com).
+Para mais informações ou perguntas, entre em contato com [emaildoprojeto@ifsc.com](mailto:emaildoprojeto@ifsc.com).
